@@ -1,0 +1,84 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.header{
+    background-color: hotpink;
+    height: 55px;
+    width: 100%;
+    padding-top: 25px;
+    padding-left: 40px;
+}
+
+h1{
+   font-size: 100px;
+   color: rgba(0, 0, 0, 0.1);
+   position: absolute;
+   left: 30%; 
+}
+
+#forma {
+    padding: 20px;
+    position: absolute;
+    top: 250px;
+    left: 35%;
+}
+
+.formb {
+    padding: 20px;
+}
+
+a{
+    font-size: 25px;
+    margin-left: 30px;
+    color: darkgreen;
+}
+
+.a1{
+    font-size: 25px;
+    margin-left: 30px;
+    color: blue;
+}
+
+.admin-header{
+    background-color: green;
+    height: 55px;
+    width: 100%;
+    padding-top: 25px;
+    padding-left: 40px;
+}
+.table-main {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+table {
+    padding-top: 70px;
+    width: 100%;
+}
+td {
+    height: 50px;
+    border: 1px solid yellowgreen;
+    color: white;
+    font-size: 20px;
+}
+.header{
+    height: 55px;
+    width: 100%;
+    padding-top: 25px;
+    padding-left: 10px;
+}
+.a2{
+    font-size: 25px;
+    margin-left: 20px;
+    padding-top: 10px;
+    color: white;
+}
